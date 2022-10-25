@@ -1,0 +1,16 @@
+Criterios	
+
+Criterion Score
+1. Publicación del ejercicio en el foro de la unidad
+
+Puntaje de 1. Publicación del ejercicio en el foro de la unidad, 1
+2. Evidencia de maquetación de al menos 5 secciones del referente seleccionado
+
+Puntaje de 2. Evidencia de maquetación de al menos 5 secciones del referente seleccionado, 1
+3. Evidencia del uso de títulos, subtítulos, párrafos, imágenes y otras etiquetas usadas en el referente
+
+Puntaje de 3. Evidencia del uso de títulos, subtítulos, párrafos, imágenes y otras etiquetas usadas en el referente, 1.5
+4. Correcto render de los elementos y funcionamiento de enlaces e imágenes
+
+Puntaje de 4. Correcto render de los elementos y funcionamiento de enlaces e imágenes, 1
+5. Entrega puntual e inclusión de datos del autor en el archivo.
