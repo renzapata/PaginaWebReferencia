@@ -1,7 +1,9 @@
 
 .s1{
+
   margin:10px, 40px;
   border: 2px solid rebeccapurple;
+  border-radius: 30px;
   padding: 0.5em;
   width:400px;
   height: 345px;
@@ -10,7 +12,7 @@
 left: 100px;
   top:50px;
   display: block;
-  margin:10px;
+
   outline: 10px solid #000;
 }
 
@@ -32,8 +34,9 @@ background: green;
 position:absolute;
 z-index: 2;
 width:20%;
-
+border-radius: 30px;
 }
+
 p {
   margin:10px, 40px;
 border: 2px solid rebeccapurple;
@@ -67,7 +70,7 @@ background: pink;
 #pie{
   border: 2px solid blue;
   padding: .5em;
-  display: block;
+  display: inline-block;
   background: rgb(132, 132, 221);
   text-align:center;
   margin:15px, 40px;
@@ -96,9 +99,13 @@ background: pink;
 }
 
 #crece {
+
+display:inline-flex;
+position:absolute;
+right: 800px;
   font-size:18px;
-  background-color: rgb(44, 238, 26);
-}
+  background-color: rgb(238, 26, 220);
+  }
 
 #crece:hover {
   background-color: gold;
@@ -107,6 +114,7 @@ background: pink;
   color:red;
   cursor:pointer;
   font-weight: bold;
+
 }
 
 #btn_volver{
